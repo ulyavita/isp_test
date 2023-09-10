@@ -14,4 +14,4 @@ print(*a, sep="")
 print("Время", time.time() - start_t)
 
 
-\\for commit 2
+\\for commit 2.3
